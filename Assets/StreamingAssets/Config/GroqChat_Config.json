@@ -1,0 +1,4 @@
+{
+  "model": "openai/gpt-oss-120b",
+  "temperature": 1
+}

@@ -1,0 +1,12 @@
+{
+  "VoiceID": "mbL34QDB5FptPamlgvX5",
+  "ElevenLabs_Settings": {
+    "model_id": "eleven_monolingual_v1",
+    "voice_settings": {
+      "stability": 0.5,
+      "similarity_boost": 0.25,
+      "style": 0.25,
+      "use_speaker_boost": false
+    }
+  }
+}

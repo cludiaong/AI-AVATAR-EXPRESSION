@@ -1,0 +1,36 @@
+{
+  "speechLang": "en-US",
+  "voiceMode": "elevenlabs",
+  "voiceConfig": {
+    "elevenLabsConfig": {
+      "voiceID": "mbL34QDB5FptPamlgvX5"
+    },
+    "azureConfig": {
+      "azureVoice": "en-SG-WayneNeural",
+      "azureVoiceLocale": "en-SG"
+    },
+    "googleConfig": {
+      "voiceGender": "male",
+      "voiceLanguageCode": "cmn_CN",
+      "voiceName": "cmn-CN-Chirp3-HD-Fenrir",
+      "ssml": false,
+      "pitch": 0.0,
+      "speakingRate": 1.0
+    },
+    "humeConfig": {
+      "utterances": [
+        {
+          "speed": 1,
+          "trailing_silence": 0.35,
+          "voice": {
+            "id": "a2610d8a-254c-479e-bef6-6499472bdf11"
+          }
+        }
+      ],
+      "format": {
+        "type": "mp3"
+      },
+      "num_generations": 1
+    }
+  }
+}
